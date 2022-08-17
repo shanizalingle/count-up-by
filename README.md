@@ -15,4 +15,3 @@ Code:
   const countBy = 5;
   countUp(countTo, countBy);
 Expected output: 0 5 10 15 20 25 30
-
